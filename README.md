@@ -29,6 +29,8 @@ $ curl -L "https://git.io/tmpmail" > tmpmail && chmod +x tmpmail
 
 # Then move it somewhere in your $PATH. Here is an example:
 $ mv tmpmail ~/bin/
+
+$ mv tmpmail /usr/bin  #(worked for me on ubuntu 18,04)
 ```
 
 ### AUR
